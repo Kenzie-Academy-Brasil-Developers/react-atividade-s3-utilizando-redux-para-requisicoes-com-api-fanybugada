@@ -1,0 +1,12 @@
+.digimonsSection {
+  background-color: rgba(169, 169, 169, 0.364);
+  margin: 20px;
+  width: max-content;
+  border: 1px solid grey;
+  align-content: center;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
